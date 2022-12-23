@@ -1,5 +1,4 @@
 import tweepy
-import secret_codes
 import random
 import os
 
